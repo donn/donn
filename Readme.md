@@ -7,7 +7,7 @@ Advanced Technology Labs, where I worked on speaker recognition.
 
 I studied Computer Engineering at the
 [American University in Cairo](https://aucegypt.edu/), where I previously
-maintained [Cloud V platform](https://cloudv.io) and contributed to some
+maintained the [Cloud V platform](https://cloudv.io) and contributed to some
 research efforts such as [Fault](https://github.com/Cloud-V/Fault) and
 [DFFRAM](https://github.com/Cloud-V/DFFRAM), both of which are still in use.
 
