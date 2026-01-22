@@ -1,18 +1,15 @@
 ## Hi!
 
-I am Mohamed "Donn" Gaber, a graduate student affiliated with the
-[American University in Cairo's Open Hardware Lab](https://github.com/AUCOHL).
+I am Mohamed "Donn" Gaber, a computer engineering graduate and
+graduate student at the [American University in Cairo](https://aucegypt.edu/)
+and a member of the [FOSSi Foundation](https://fossi-foundation.org).
 I am currently also a part-time CAD Tool Engineering Contractor with
-[Silimate, Inc](https://github.com/silimate) and a member of the
-[FOSSi Foundation](https://fossi-foundation.org).
+[Silimate, Inc](https://github.com/silimate).
 
 I am the primary maintainer of
 [LibreLane](https://github.com/librelane/librelane), which is the successor to
 the [OpenLane 2](https://github.com/efabless/openlane2) project I started and
-maintained at Efabless Corporation.
-
-I studied Computer Engineering at the
-[American University in Cairo](https://aucegypt.edu/).
+maintained at Efabless Corporation, among other related projects.
 
 ## Highlights
 
@@ -27,6 +24,9 @@ I studied Computer Engineering at the
 - [Fault](https://github.com/AUCOHL/Fault) — Somehow the only open-source
   design-for-test solution, including ATPG, Scan Chain Stitching, and TAP
   insertion and verification.
+- [Difetto](https://github.com/donn/difetto) – Graduate thesis; a flow built
+  using plugins to both LibreLane and Yosys to create a faster and more robust
+  open-source design-for-test solution.
 
 ### Side Projects
 
@@ -45,6 +45,5 @@ still mostly proud of them.
 - Email: [me@donn.website](mailto:me@donn.website)
 - LinkedIn: [@nnod](https://www.linkedin.com/in/nnod)
 - Matrix: [@donn:fossi-chat.org](https://matrix.to/#/@donn:fossi-chat.org)
-- Discord: `@nnod`
 
-I do not maintain other social media presences.
+I do not maintain other active social media presences.
