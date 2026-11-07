@@ -2,8 +2,6 @@
 
 I am Mohamed Gaber, a member of the
 [FOSSi Foundation](https://fossi-foundation.org).
-I am currently also a part-time CAD Tool Engineering Contractor with
-[Silimate, Inc](https://github.com/silimate).
 
 I am the primary maintainer of
 [LibreLane](https://github.com/librelane/librelane), which is the successor to
